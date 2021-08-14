@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Xi-PP</h1>
+<h1 align="center">Hi There <img src="https://raw.githubusercontent.com/Xi-PP/Xi-PP/main/wavehand.gif" width="35px">, I'm Xi-PP</h1>
 <h3 align="center">A passionate Graphic Designer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Xi-PP&label=Profile%20views&color=0e75b6&style=flat" alt="Xi-PP" /> </p>
