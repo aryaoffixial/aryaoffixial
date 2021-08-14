@@ -11,7 +11,14 @@
 - Currently There are no way to connect with me.✨🙂
 
 <h3 align="left">Support </h3>
+
+
+- loving me & everyone is enough.
+
 <br>
+
+<h3 align="left">Stats </h3>
+
 <p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xi-PP&show_icons=true&locale=en" alt="Xi-PP" /></p>
 
 <p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xi-PP&show_icons=true&locale=en&layout=compact" alt="Xi-PP" /></p>
