@@ -6,7 +6,7 @@
 
 - 👨‍💻 I'm a script kiddie🕸️
 
-- I'm a Learner😄 don't expect much.
+- Also a Learner😄 don't expect much.
 
 - Currently There are no way to connect with me.✨🙂
 
