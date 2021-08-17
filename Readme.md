@@ -19,7 +19,6 @@
 
 <h3 align="left">Stats </h3>
 
-<p style="width:100%"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Xi-PP&show_icons=true&locale=en" alt="Xi-PP" /></p>
-
-<p style="width:100%"><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Xi-PP&show_icons=true&locale=en&layout=compact" alt="Xi-PP" /></p>
- 
+[![github stats](https://github-readme-stats.vercel.app/api?username=Xi-PP&show_icons=true&count_private=true)](https://github.com/Xi-PP)
+<br>
+[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xi-PP&show_icons=true&layout=compact)](https://github.com/Xi-PP)
