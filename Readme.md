@@ -20,7 +20,7 @@
 <h3 align="left">Stats </h3>
 
 [![github stats](https://github-readme-stats.vercel.app/api?username=Xi-PP&show_icons=true&count_private=true)](https://github.com/Xi-PP)
-<br>
-[![top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Xi-PP&show_icons=true&layout=compact)](https://github.com/Xi-PP)
+
+
 
 
