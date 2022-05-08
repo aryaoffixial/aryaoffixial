@@ -8,7 +8,7 @@
 
 - Don't expect much from a learner<img src="https://raw.githubusercontent.com/Xi-PP/Xi-PP/main/Sunglasses.gif" width="32">
 
-- visit this [link](https://xi-pp.github.io) & connect with me.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="42">
+- visit [Xi-PP](https://xi-pp.github.io) & connect with me.<img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="42">
 
 <h3 align="left"><img src="https://i.giphy.com/media/CaT24z9oRrRJe/giphy.webp" width="38">Support</h3>
 
