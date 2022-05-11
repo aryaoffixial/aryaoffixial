@@ -12,8 +12,9 @@
 
 <h3 align="left"><img src="https://i.giphy.com/media/CaT24z9oRrRJe/giphy.webp" width="38">Support</h3>
 
-
- <img src="https://media2.giphy.com/media/HVNvHYTrMaDBn5Arxn/giphy.gif?cid=6c09b952361ff394960e3534b471c7473c96bb8d46db2350&rid=giphy.gif" width="41"> ```0xB6ef35ECABf8e47955B07AdFcd0Fc804E0126d16``` 
+<img src="https://storage.googleapis.com/opensea-static/Logomark/Logomark-Blue.png" width="29"> [OpenSea](https://opensea.io/accounts/0xb6ef35ecabf8e47955b07adfcd0fc804e0126d16)
+ 
+<img src="https://media2.giphy.com/media/HVNvHYTrMaDBn5Arxn/giphy.gif?cid=6c09b952361ff394960e3534b471c7473c96bb8d46db2350&rid=giphy.gif" width="41"> ```0xB6ef35ECABf8e47955B07AdFcd0Fc804E0126d16``` 
 
 <br>
 
