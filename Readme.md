@@ -9,7 +9,6 @@
 
 <h3 align="left"><img src="https://i.giphy.com/media/CaT24z9oRrRJe/giphy.webp" width="38">Support</h3>
 
-> 💸 donate using net banking <a href="http://t.me/aryaoffixial">_tg//@aryaoffixial_</a>
 
 > <p align="left"><img src="https://media3.giphy.com/media/mVHENVoUFjKT1GeXta/200w.webp" width=35><a href="https://accounts.binance.info/en/register?ref=449994522">Binance Refferal 449994522</a></p>
 
