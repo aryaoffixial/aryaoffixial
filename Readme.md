@@ -7,7 +7,7 @@
 
 - <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="42"> Daydreamer
 
-<h3 align="left"><img src="https://i.giphy.com/media/CaT24z9oRrRJe/giphy.webp" width="38">Support</h3>
+<img src="https://i.giphy.com/media/CaT24z9oRrRJe/giphy.webp" width="38">
 
 
 <br>
